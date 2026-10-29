@@ -1,0 +1,56 @@
+[
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 12
+    },
+    {
+        "id": "P002",
+        "name": "Mouse",
+        "price": 25.0,
+        "stock": 20
+    },
+    {
+        "id": "P003",
+        "name": "Keyboard",
+        "price": 80.0,
+        "stock": 12
+    },
+    {
+        "id": "MONITOR",
+        "name": "P001",
+        "price": 299.0,
+        "stock": 10
+    },
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 14
+    },
+    {
+        "id": "P002",
+        "name": "Mouse",
+        "price": 25.0,
+        "stock": 18
+    },
+    {
+        "id": "P003",
+        "name": "Keyboard",
+        "price": 80.0,
+        "stock": 12
+    },
+    {
+        "id": "P004",
+        "name": "Monitor",
+        "price": 299.0,
+        "stock": 7
+    },
+    {
+        "id": "234",
+        "name": "mouse",
+        "price": 23.0,
+        "stock": 34
+    }
+]
